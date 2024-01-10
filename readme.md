@@ -5,7 +5,7 @@
 - **For self use only**
 
 ## Update
-- 2023.10.10, v5.2.1: Automatically update journal abbreviation before renaming PDF file and moving it to the desired folder
+- 2023.10.10, v5.1.2.1: Automatically update journal abbreviation before renaming PDF file and moving it to the desired folder
   - By using the command `Zotero.journalabbrbyzsc.updateJournalAbbrAdded(item)`
   - Tested in Zotero 6 (v6.0.30), on Windows 10 Professional Education version 2009
 
