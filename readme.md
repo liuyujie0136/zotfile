@@ -4,8 +4,7 @@
 - Based on release v5.1.2 (Oct 9, 2022) for Zotero 6
 - **For self use only**
 
-## Update
-
+## Updates
 All updates have been tested in Zotero 6 (v6.0.30), on Windows 10 Professional Education version 2009
 
 ### 2023.10.10, v5.1.2.1
