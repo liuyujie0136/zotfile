@@ -83,6 +83,7 @@ Zotero.ZotFile.Utils = new function() {
      */
     this.addNumericalSuffix = function(filename, k) {
         return filename.replace(/(\d{1,3})?(\.[\w\d]*)$/i, k + "$2");
+        // return filename.replace(/(_\d{1,3})?(.[\w\d]*)$/i, "_" + k + "$2");
     }.bind(Zotero.ZotFile);
 
     /**

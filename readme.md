@@ -1,4 +1,16 @@
 # ZotFile: Advanced PDF management for Zotero
+
+- Forked from `jlegewie/zotfile`
+- Based on release v5.1.2 (Oct 9, 2022) for Zotero 6
+- **For self use only**
+
+## Update
+- 2023.10.10, v5.2.1: Automatically update journal abbreviation before renaming PDF file and moving it to the desired folder
+  - By using the command `Zotero.journalabbrbyzsc.updateJournalAbbrAdded(item)`
+  - Tested in Zotero 6 (v6.0.30), on Windows 10 Professional Education version 2009
+
+
+## Original README
 ### Joscha Legewie
 
 Zotfile is a Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.) and extract annotations from PDF files.

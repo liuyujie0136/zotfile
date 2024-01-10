@@ -4,8 +4,8 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>zotfile@columbia.edu</em:id>
-    <em:name>ZotFile</em:name>
-    <em:version>5.1.3</em:version>
+    <em:name>ZotFile_abbr</em:name>
+    <em:version>5.1.2.1</em:version>
     <em:type>2</em:type>
     <em:multiprocessCompatible>true</em:multiprocessCompatible>
     <em:creator>Joscha Legewie</em:creator>
